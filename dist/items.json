@@ -1,0 +1,68 @@
+[
+    {
+        "id": 2,
+        "name": "Super Air Sneakers",
+        "price": 150,
+        "description": "Fly high with these Super Air Sneakers! They give you an extra bounce and make you feel unstoppable!"
+    },
+    {
+        "id": 3,
+        "name": "Mega Jump Shoes",
+        "price": 150,
+        "description": "Jump to new heights with these Mega Jump Shoes! Get ready for exciting, higher jumps!"
+    },
+    {
+        "id": 4,
+        "name": "Hyper Boost Kicks",
+        "price": 150,
+        "description": "Boost your speed and agility with these Hyper Boost Kicks! Perfect for any surface!"
+    },
+    {
+        "id": 5,
+        "name": "Epic Fly Shoes",
+        "price": 150,
+        "description": "Unleash your inner superhero with these Epic Fly Shoes! Soar through adventures!"
+    },
+    {
+        "id": 6,
+        "name": "Lightning Bolt Sneakers",
+        "price": 150,
+        "description": "Strike like lightning with these Lightning Bolt Sneakers! Leave others in awe!"
+    },
+    {
+        "id": 7,
+        "name": "Speed Racer Shoes",
+        "price": 150,
+        "description": "Zoom ahead with these Speed Racer Shoes! Cross the finish line in record time!"
+    },
+    {
+        "id": 8,
+        "name": "Star Glide Sneakers",
+        "price": 150,
+        "description": "Glide through the galaxy with these Star Glide Sneakers! Feel weightless!"
+    },
+    {
+        "id": 9,
+        "name": "Galactic Run Shoes",
+        "price": 150,
+        "description": "Conquer alien planets with these Galactic Run Shoes! Maximum comfort and traction!"
+    },
+    {
+        "id": 10,
+        "name": "Ninja Stealth Kicks",
+        "price": 150,
+        "description": "Master stealth with these Ninja Stealth Kicks! Move silently and swiftly!"
+    },
+    {
+        "id": 11,
+        "name": "Fire Strike Sneakers",
+        "price": 150,
+        "description": "Ignite your style with these Fire Strike Sneakers! Stand out from the crowd!"
+    },
+    {
+        "id": 12,
+        "name": "Ultra Bounce Shoes",
+        "price": 150,
+        "description": "Bounce to new heights with these Ultra Bounce Shoes! Maximum comfort and fun!"
+    }
+]
