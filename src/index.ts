@@ -46,6 +46,7 @@ function createProduct(id: number, name: string, price: number, description: str
   };
 }
 
+
 function addToCart(product: Product, customer: Customer): void {
   customer.cart.push(product);
 }
